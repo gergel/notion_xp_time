@@ -70,4 +70,4 @@ def main():
 # 🚀 Végtelen ciklus, 30mp-es újrafutással
 while True:
     main()
-    time.sleep(30)
+    time.sleep(300)
